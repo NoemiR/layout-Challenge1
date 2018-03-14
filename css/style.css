@@ -1,0 +1,31 @@
+body {
+	background-color: gray;
+	margin: auto;
+
+}
+
+header, footer {
+border: 2px solid black;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: auto;
+margin-right: auto;
+height: 20vh;
+width: 100%;
+
+}
+div{ 
+border: 1px solid black;
+margin: 4px;
+height: 25vh; 
+width: 30vw;
+display: inline-table;
+}
+aside {
+	border: 1px solid black;
+	margin-left: 10px;
+	margin-right: 10px;
+	height: 35vh;
+	width: 45vw;
+	display: inline-table;
+}
